@@ -1,0 +1,82 @@
+﻿@page
+@model MyWebStory.Pages.IndexModel
+@{
+}
+<!-- Header Section -->
+<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+	<div class="content">
+		<h1>Story</h1>
+		<p class="major">A (modular, highly tweakable) responsive one-page template designed by <a href="https://html5up.net">HTML5 UP</a> and released for free under the <a href="https://html5up.net/license">Creative Commons</a>.</p>
+		<ul class="actions stacked">
+			<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
+		</ul>
+	</div>
+	<div class="image">
+		<img src="https://picsum.photos/1080/1920?random=0" alt="" />
+	</div>
+</section>
+@foreach (var item in Model.Spotlights)
+{
+	string orient = item.Id % 2 == 0 ? "left" : "right";
+	<!-- Spotlight Section -->
+	<section class="spotlight style1 orient-@orient content-align-left image-position-center onscroll-image-fade-in" id="first">
+		<div class="content">
+			<h2>@item.Header</h2>
+			<p>@item.Body Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ante sed ex pharetra lacinia sit amet vel massa. Donec facilisis laoreet nulla eu bibendum. Donec ut ex risus. Fusce lorem lectus, pharetra pretium massa et, hendrerit vestibulum odio lorem ipsum dolor sit amet.</p>
+			<ul class="actions stacked">
+				<li><a href="#" class="button">Learn More</a></li>
+			</ul>
+		</div>
+		<div class="image">
+			<img src="@item.Image" alt="" />
+		</div>
+	</section>
+
+}
+
+<!-- Five -->
+<section class="wrapper style1 align-center">
+	<div class="inner">
+		<h2>@Model.Gallery.Header</h2>
+		<p>@Model.Gallery.Description</p>
+	</div>
+
+	<!-- Gallery -->
+	<div class="gallery style2 medium lightbox onscroll-fade-in">
+		@foreach (var item in Model.Gallery.Gallery)
+		{
+			<article>
+				<a href="@item.Image" class="image">
+					<img src="@item.Image" alt="" />
+				</a>
+				<div class="caption">
+					<h3>@item.Header</h3>
+					<p>@item.Body</p>
+					<ul class="actions fixed">
+						<li><span class="button small">Details</span></li>
+					</ul>
+				</div>
+			</article>
+		}
+	</div>
+
+</section>
+
+<!-- Six -->
+<section class="wrapper style1 align-center">
+	<div class="inner">
+		<h2>My Skills</h2>
+		<p>Yeteneklerim</p>
+		<div class="items style1 medium onscroll-fade-in">
+			@foreach (var item in Model.Attributes)
+			{
+				<section>
+					<span class="icon style2 major @item.Icon"></span>
+					<h3>@item.Header</h3>
+					<p>@item.Description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit.</p>
+				</section>
+			}
+		</div>
+	</div>
+</section>
+

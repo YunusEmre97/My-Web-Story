@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\services\\ispotlightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\services\\ispotlightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\models\\attributeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\models\\attributeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\models\\indexgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\models\\indexgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\pages\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|c:\\users\\hp\\desktop\\mywebstory\\mywebstory\\mywebstory\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B9DC027-3A7D-4914-812D-753273ADB76E}|MyWebStory\\MyWebStory.csproj|solutionrelative:mywebstory\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttributeItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Models\\AttributeItem.cs",
+              "RelativeDocumentMoniker": "MyWebStory\\Models\\AttributeItem.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Models\\AttributeItem.cs",
+              "RelativeToolTip": "MyWebStory\\Models\\AttributeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:52:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyWebStory\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MyWebStory\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:44:37.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexGallery.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Models\\IndexGallery.cs",
+              "RelativeDocumentMoniker": "MyWebStory\\Models\\IndexGallery.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Models\\IndexGallery.cs",
+              "RelativeToolTip": "MyWebStory\\Models\\IndexGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:33:40.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISpotlightService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Services\\ISpotlightService.cs",
+              "RelativeDocumentMoniker": "MyWebStory\\Services\\ISpotlightService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Services\\ISpotlightService.cs",
+              "RelativeToolTip": "MyWebStory\\Services\\ISpotlightService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:23:02.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Blog.cshtml",
+              "RelativeDocumentMoniker": "MyWebStory\\Pages\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Blog.cshtml",
+              "RelativeToolTip": "MyWebStory\\Pages\\Blog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T07:21:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyWebStory\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyWebStory\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T07:20:43.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyWebStory\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MyWebStory\\MyWebStory\\MyWebStory\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyWebStory\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T11:43:55.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
